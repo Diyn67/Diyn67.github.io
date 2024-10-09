@@ -41,7 +41,8 @@ h3 {
     height: 300px;
     margin: 10px;
     border: 2px solid rgb(126, 14, 201);
-    display: cover;
+    object-fit: cover;
+    display: block;
     margin: auto;
 }
 
